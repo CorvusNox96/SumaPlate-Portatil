@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+<metadata>
+<id>SumaPlate</id>
+<title>SumaPlate</title>
+<description>SumaPlate</description>
+<authors>SumaPlate</authors>
+<version>1.0.0</version>
+<channel>win</channel>
+<mainExe>SumaPlate.WPF.exe</mainExe>
+<os>win</os>
+<rid>win-x64</rid>
+<runtimeDependencies>net10-x64-desktop</runtimeDependencies>
+<shortcutLocations>Desktop,StartMenuRoot</shortcutLocations>
+<shortcutAumid>velopack.SumaPlate</shortcutAumid>
+<machineArchitecture>x64</machineArchitecture>
+</metadata>
+</package>
