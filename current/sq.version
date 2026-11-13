@@ -5,7 +5,7 @@
 <title>SumaPlate</title>
 <description>SumaPlate</description>
 <authors>SumaPlate</authors>
-<version>1.0.0</version>
+<version>1.0.1</version>
 <channel>win</channel>
 <mainExe>SumaPlate.WPF.exe</mainExe>
 <os>win</os>
